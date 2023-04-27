@@ -1,0 +1,3 @@
+[submodule "rs-ticket-common"]
+	path = common
+	url = git@github.com:rakshithshenoy/rs-tickets-common.git
